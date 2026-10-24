@@ -1,0 +1,246 @@
+{
+  "purpose": "User-requested local Snip capture-mode reconstruction",
+  "source_bundle": "/Applications/Snip.app",
+  "assets": [
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_rectangle_active@2x.png",
+      "file": "ico_rectangle_active@2x.png",
+      "sha256": "64a1cfa35550b50faf9528ab59cc81f4760dbb35ad4aed84969e3156dc55f5dd"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_curve@2x.png",
+      "file": "ico_curve@2x.png",
+      "sha256": "fd0505f4b89024862f3bc06c4fe195ba955144e0253d0e99d21b9e39a8d25d3c"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_text@2x.png",
+      "file": "ico_text@2x.png",
+      "sha256": "7e68d5192b15d8e10cef3e43808dbb3bac91992e84454bf3583a4dd9711a9427"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_m_active@2x.png",
+      "file": "ico_stroke_m_active@2x.png",
+      "sha256": "9d2ff3d972eedaa0b334fa455581c00b1740b747a2c6fdd8c9326f954a9b2005"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_done_active.png",
+      "file": "ico_done_active.png",
+      "sha256": "ea24ea8596cabcdc2257152dc60101194e2f7cfd123856f6ddb9a738b627e4c3"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_m.png",
+      "file": "ico_stroke_m.png",
+      "sha256": "5a8852792255afa18a2f73c24829d1f4ccb5cd30b71c4623a42e76a6e8745e72"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_l.png",
+      "file": "ico_stroke_l.png",
+      "sha256": "a09614735e2d4dfa51d2f82bb6f47bc2e874e8338585e7a24c2f7df8e929a842"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_ellipse_active.png",
+      "file": "ico_ellipse_active.png",
+      "sha256": "300e0171bb4723272929ca26185b30dd3c5eb6cf46a8b4550506b14fc3e94c5f"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_arrow_active@2x.png",
+      "file": "ico_arrow_active@2x.png",
+      "sha256": "0956fc80034fef07a8b618d4a98dca81104f26640e6778bf08db08858089797d"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_rectangle.png",
+      "file": "ico_rectangle.png",
+      "sha256": "4a6959287b9d21a9b84858edb160e08f45f0a92d5fba76f9c3fcd0366a20fcd5"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_s_active.png",
+      "file": "ico_stroke_s_active.png",
+      "sha256": "06614ae09f6231f6cd86ed7187961b2c98785ebaadf5ce4f9b66e2c7deac59c7"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_m@2x.png",
+      "file": "ico_stroke_m@2x.png",
+      "sha256": "0a8e28a8bcd1b5ef267cca6d40ce34afdc38a7b2360d313ce093f3f02347a26b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_m_active.png",
+      "file": "ico_stroke_m_active.png",
+      "sha256": "3a48f3ed3f07c56f70675ccec539fa355a9e5d33e1f1d2cc416f12f0d220224b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_ellipse_active@2x.png",
+      "file": "ico_ellipse_active@2x.png",
+      "sha256": "0c8dd46d610698576d504d783b5b85d520dce7ac74d0761836d288303df6c1a6"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_curve_active@2x.png",
+      "file": "ico_curve_active@2x.png",
+      "sha256": "8b0311a8f979680661f6603adcda407a3befdd54e0e956f4783782252ece970a"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_cancel@2x.png",
+      "file": "ico_cancel@2x.png",
+      "sha256": "bce77199956bc3d831c027f13613149e8983c7a4d3bff83537d3b8d55643150f"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_cancel.png",
+      "file": "ico_cancel.png",
+      "sha256": "6ed5b87a638c4d82c9af0fb2ecc651065036e6aa00e2d647934571eb412677c6"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_curve_active.png",
+      "file": "ico_curve_active.png",
+      "sha256": "d1af7e93449e359ebcc525e9599567a4101e3b9b5d2bf0ae692814651370154b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_cancel_active@2x.png",
+      "file": "ico_cancel_active@2x.png",
+      "sha256": "88aab7ed6857546ab35badc3f4a239c2d806fe10b6b7c5dc1ce9222a0ba9da2a"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_done@2x.png",
+      "file": "ico_done@2x.png",
+      "sha256": "5799533612f44a8b469accccfc2ad1d1d199ed095af3c9141b6c5a15e508e69a"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/bg_toolbar.png",
+      "file": "bg_toolbar.png",
+      "sha256": "dac1c3ae5bec740efac5e2b38c4a4dd8cec909218ff981181d15cb5010fde95c"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_ellipse.png",
+      "file": "ico_ellipse.png",
+      "sha256": "76d484ec795f52f5c1295a9982c20106089b3505573fab692df9a8e46c14ba74"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_s@2x.png",
+      "file": "ico_stroke_s@2x.png",
+      "sha256": "68e38b044401d4cf6488ff53559d16a74a286899584b237a90e157e653b34024"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_arrow.png",
+      "file": "ico_arrow.png",
+      "sha256": "f6f1197806c587d7e3afd1751146f14f406fb23abdddeeeff5c0349b6be9f41a"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_ellipse@2x.png",
+      "file": "ico_ellipse@2x.png",
+      "sha256": "7ab8fa8a577553788dabe8402cef37555559442e87bde6c869785373eeeebb15"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_cancel_active.png",
+      "file": "ico_cancel_active.png",
+      "sha256": "9f073e976b180ee2b889eb326b8f93b89c84dbd04d6dd26870a5ce46ad6050a8"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_s_active@2x.png",
+      "file": "ico_stroke_s_active@2x.png",
+      "sha256": "0667775178bd5bb1563f152d98f38ca86b6781bc613627d5ed3366e19aa4890b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_text_active@2x.png",
+      "file": "ico_text_active@2x.png",
+      "sha256": "dd72fafa7181675a4311628b7e72ee431625724cbc74c45ea5b6fc6ce63eea73"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_save_active.png",
+      "file": "ico_save_active.png",
+      "sha256": "f0a2520d187d95caec70df612349ba35cf3764f9235a784dd1823ee24657a6c7"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_l_active.png",
+      "file": "ico_stroke_l_active.png",
+      "sha256": "628b1f52798bf348a91004ac171b69fded28c7e2ac10a2a29c7000f92e66ce46"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_done.png",
+      "file": "ico_done.png",
+      "sha256": "6fa7a86cd44ecc43173cff873c28b1b912f1a7be750dc9dc864bc814631cdd2b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_split@2x.png",
+      "file": "ico_split@2x.png",
+      "sha256": "dd2d0af3473e7062524736998d07969ab6e3eb30ed48c42b5064374cf75284a1"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_arrow@2x.png",
+      "file": "ico_arrow@2x.png",
+      "sha256": "6bd9b82c3ecb29ed794854c445e326ff5365992a5c1149c77aadb43b80a90e0a"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_rectangle@2x.png",
+      "file": "ico_rectangle@2x.png",
+      "sha256": "c8b4f63b3d681f5674c135f23c97466d66bf4ebcd53b103d7e49700fcd605335"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_rectangle_active.png",
+      "file": "ico_rectangle_active.png",
+      "sha256": "d31ee987904222b63dc326f1982d0ff4041bb5b5333ce8ff32cfb52ade560bc9"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_l@2x.png",
+      "file": "ico_stroke_l@2x.png",
+      "sha256": "4f18891b2fbd3ec3e7add33c1a45c1d8893f66e8c202a5288e08576df194c9d1"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_text_active.png",
+      "file": "ico_text_active.png",
+      "sha256": "51aceddf176fc2be85a30827af236633ca486496906e4e16c999a8e77f1efc8b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_done_active@2x.png",
+      "file": "ico_done_active@2x.png",
+      "sha256": "cdefe84da22e84f7dabf9395abf6720dbb08e213b200c35487f6551226e68f36"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_save_active@2x.png",
+      "file": "ico_save_active@2x.png",
+      "sha256": "02a6e5baff7a837403e69c24305620799d3dfd0c39f2da0614bc983a59c5c570"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_save@2x.png",
+      "file": "ico_save@2x.png",
+      "sha256": "ae1fb7afcca5a9c5d4957c52bc284f079b5e5519d56d25afdba23cd7e84f3c38"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_s.png",
+      "file": "ico_stroke_s.png",
+      "sha256": "a890b52404df23af309401c06f99e1f015117f8bc181931102c3c7d612918f6f"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/bg_toolbar@2x.png",
+      "file": "bg_toolbar@2x.png",
+      "sha256": "00c1f0be797c56aa0d6740aee222e1b595feb3b1bce36d700bc43f53634547ca"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_stroke_l_active@2x.png",
+      "file": "ico_stroke_l_active@2x.png",
+      "sha256": "c70ae7a13191ea23f4e877872c94190a9fd6725360545b322d8e3288bee181da"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_save.png",
+      "file": "ico_save.png",
+      "sha256": "32aa23d6c85228ee2ad4d9c3bb476c62e14229a380dabc28c99bf1e7026a7fa6"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_text.png",
+      "file": "ico_text.png",
+      "sha256": "04090c18d21fe37e9201c1ce90383a2d845c2e46e335ec596b391fbbf9218fca"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_split.png",
+      "file": "ico_split.png",
+      "sha256": "98b0b504730eea4afb8c56d522542dce6ad7d9eadf704948749ee28f4f25170b"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_arrow_active.png",
+      "file": "ico_arrow_active.png",
+      "sha256": "34a703bafaab37871ceb2fefc715b1060cd5925b32a01df321ad130d5e775eec"
+    },
+    {
+      "source": "/Applications/Snip.app/Contents/Resources/ico_curve.png",
+      "file": "ico_curve.png",
+      "sha256": "28bfe790f29aaf3f743ba92e5958ffeb547a0099d55058afad41999ec6a1dea2"
+    }
+  ]
+}

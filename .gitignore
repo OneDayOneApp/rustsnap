@@ -1,0 +1,26 @@
+# macOS metadata
+.DS_Store
+
+# Build and packaging output
+/target/
+/dist/
+*.app/
+
+# Local QA runs, screenshots, logs and backups
+/qa/*
+!/qa/annotation-fixture.png
+!/qa/preferences-test.m
+!/qa/hotkey-release-test.c
+
+# Working icon sources and historical variants
+/assets/icon-history/
+/assets/*-selected-source.png
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
