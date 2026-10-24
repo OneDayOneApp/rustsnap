@@ -1,5 +1,7 @@
 # RustSnap
 
+**简体中文** | [English](README.en.md)
+
 基于本机 Snip 2.0 的 REA/Ghidra 静态分析，独立重写的截图标注核心版本。Rust 负责标注模型、几何、手势与撤销/重做；AppKit 原生桥接负责窗口、图像绘制、截图进程、文件对话框和剪贴板。不是整个 Snip 的完整源码移植。
 
 安装位置：`~/Applications/RustSnap.app`。
